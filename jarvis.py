@@ -8,7 +8,7 @@ from gtts import gTTS
 import openai
 import uuid
 
-api_key = "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"
+api_key = " "
 lang = 'en'
 
 openai.api_key = api_key
